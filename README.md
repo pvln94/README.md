@@ -40,7 +40,15 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science (Artificial Intelligence) @ Amrita Vishwa Vidyapeetham
+- 💼 Former SysTest Software Engineering Intern at Arista Networks
+- 🌐 Passionate about Network Software Engineering, AI/ML, Linux, Backend Development, and Distributed Systems
+- 🔍 Interested in System Validation, Network Protocols, Cloud Computing, and High Performance Networking
+- 🤝 Open to Software Engineering, Network Software, QA Automation, SRE, and AI/ML opportunities
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
