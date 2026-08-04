@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Narasimha Pula 👋</h1>
-<h3 align="center">A Network Engineer, App developer specializing in Flutter Framework, and an AI/ML engineer from India</h3>
-
+<h3 align="center">A Network Engineer, Software Engineer, Flutter Developer, AI/ML Engineer, and Linux Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvln94&label=Profile%20views&color=0e75b6&style=flat" alt="pvln94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvln94" alt="pvln94" /></a> </p>
@@ -8,9 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [github.com/pvln94](github.com/pvln94)
 
-- 💬 Ask me about **Machine Learning, NLP, Data Engineering, Encryption (AES/RSA), Python, R, SQL, Java, C, Dart, JavaScript, React, Spark, Scala, Hadoop, MongoDB, Flutter, FastAPI, and more! 🚀**
+- 💬 Ask me about **Networking (TCP/IP, OSPF, BGP, STP), Linux, Socket Programming (TCP/UDP), QoS & Traffic Policing (TrTCM), System Validation, Debugging, Packet Processing, Machine Learning, Deep Learning, NLP, Computer Vision, Encryption (AES/RSA), Python, Java, C, R, SQL, JavaScript, Dart, React, Flutter, Flask, FastAPI, MongoDB, MySQL, Spark, Hadoop, Git, GitHub, IXIA IxNetwork, Wireshark, and more! 🚀**
 
 - 📫 How to reach me **narasimhapula2005@gmail.com** and **av.en.u4aie22029@av.students.amrita.edu**
+  
+- 💼 Former **SysTest Software Engineering Intern @ Arista Networks**
+
+- 🌐 Experienced in **L2/L3 Networking, Linux System Validation, QoS, Packet Processing, OSPF, BGP, STP, TCP/IP, and Network Troubleshooting**
+
+- 🔭 Currently exploring **Distributed Systems, Network Software Engineering, Cloud Computing, DevOps, and AI-powered Applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
